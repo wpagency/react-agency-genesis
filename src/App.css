@@ -1,0 +1,8 @@
+.logo {
+  height: 2.5rem;
+  width: auto;
+}
+
+* {
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
